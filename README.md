@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Hanzla Saadi</h1>
-<h3 align="center">Full Stack Developer at Interware PVT.</h3>
+<h3 align="center">Software Engineer at Devsinc.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzlasaadi&label=Profile%20views&color=0e75b6&style=flat" alt="hanzlasaadi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanzlasaadi" alt="hanzlasaadi" /></a> </p>
 
-- 🔭 I’m currently working on **iTrade**
+- 🔭 I’m currently working on **Pakistan Business Council’s Application**
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **NestJS**
 
-- 👯 I’m looking to collaborate on **React & NodeJS Projects**
+- 👯 I’m looking to collaborate on **React/Next & NodeJS Projects**
 
 - 🤝 I’m looking for help with **Hobby Projects** & will provide help to your **Hobby Projects**
 
-- 👨‍💻 All of my projects are available at [https://hanzlasaadi.live/](https://hanzlasaadi.live/)
+<!-- - 👨‍💻 All of my projects are available at [https://hanzlasaadi.live/](https://hanzlasaadi.live/) -->
 
 - 📫 How to reach me **hanzalasaadi@gmail.com**
 
